@@ -1,7 +1,5 @@
 # CCNA Security 210-260 Certification Guide
 
-<a href="https://www.packtpub.com/networking-and-servers/ccna-security-210-260-certification-guide?utm_source=github&utm_medium=repository&utm_campaign=9781787128873"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06184_MockupCoverzcxzcz.png" alt="CCNA Security 210-260 Certification Guide" height="256px" align="right"></a>
-
 This is the code repository for [CCNA Security 210-260 Certification Guide](https://www.packtpub.com/networking-and-servers/ccna-security-210-260-certification-guide?utm_source=github&utm_medium=repository&utm_campaign=9781787128873), published by Packt.
 
 **Build your knowledge in network security and pass your CCNA Security Exam (210-260)**
@@ -59,7 +57,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Authors
 **Glen D. Singh**
 Glen D. Singh is a Cyber Security Instructor and consultant for various institutions within the Republic of Trinidad and Tobago. He conducts multiple training exercises in offensive security, digital forensics, and network security annually. He also holds various information security certifications such as the EC-Council’s Certified Ethical Hacker (CEH), Computer Hacking Forensic Investigator (CHFI), Cisco’s CCNA Security, CCNA Routing and Switching, and many others in the field of network security.
-
 
 **Michael Vinod**
 Michael Vinod is a freelance IT trainer and consultant specializing in Cisco Routing, Switching, and Security technologies.
