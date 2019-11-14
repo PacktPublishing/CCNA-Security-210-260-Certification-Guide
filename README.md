@@ -17,11 +17,7 @@ This book covers the following exciting features:
 * Explore the different types of firewall technologies
 * Discover the Cisco ASA functionality and gain insights into some advanced ASA configurations
 
-
 If you feel this book is for you, get your [copy](https://www.amazoutm_campaignn.com/dp/1787128873) today!
-
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&=GitHubBanner"><img src="https://raw.githubusercontent.com/VishalMewadaPackt/Pictures-Repo/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
 
 ### Amazon Reviews
 
@@ -52,8 +48,6 @@ With the following software and hardware list you can run all code files present
 | 1-17        | Ubuntu Server 18.04 LTS                     | System with 4GB RAM or VM/VirtualBox |
 | 1-17        | Ubuntu Server 18.04 LTS                     | System with 4GB RAM or VM/VirtualBox |
 | 1-17        | Ubuntu Server 18.04 LTS                     | System with 4GB RAM or VM/VirtualBox |
-
-
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/MasteringUbuntuServerSecondEdition_ColorImages.pdf).
 
